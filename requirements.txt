@@ -1,0 +1,7 @@
+numpy>=1.10.2
+scipy>=0.16.1
+scikit-image>=0.10.0
+pytz>=2014.0
+matplotlib>=2.1.0
+seaborn>=0.8
+pandas>=0.20.0
